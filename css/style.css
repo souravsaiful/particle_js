@@ -1,0 +1,19 @@
+*{
+box-sizing: border-box;
+}
+#pp{
+	/*min-height: 400px;*/
+	position: relative;
+	background-image: url(../images/b3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	position: absolute;
+    top: 40%;
+    left: 37%;
+    font-size: 50px;
+    
+
+}
